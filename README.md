@@ -9,7 +9,7 @@ Remake the game with following functions.
 * Score Counting
 * Collect and Fire balls
 * Brick 
-  * color gradient effect
+  * Color gradient effect
   * Destroy effect
 * Power-up System
   * Add ball
